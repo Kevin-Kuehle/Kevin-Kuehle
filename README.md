@@ -1,15 +1,15 @@
 ### Hi 👋 ich bin Kevin 😊
-- 🧪 **Ich arbeite zur Zeit an** An meinem Portfolio
+- 🧪 **Ich arbeite zur Zeit an** meinem Portfolio
 - 🎓 **Aktuell lerne ich** Firebase
-- 🔭 **Was ich suche:** Herausforderungen in einer netten Firma.
-- 🎯 **Mein Ziel:** Senior Full Stack Webentwickler.
+- 🔭 **Was ich suche:** Herausforderungen in einer netten Firma
+- 🎯 **Mein Ziel:** Senior Full Stack Webentwickler 💪
 
 #### Interessen
 - 📷 Fotografie
 - 🚁 Luftfahrt
 - 🎮 Spiele
 - ✨ Kreative sein
-- 💻 Code 💪
+- 💻 Code
 ### Kontakt
 - kevin.kuehle@googlemail.com
 ### Sprachen und Technologien
