@@ -19,7 +19,7 @@
 
 ### Sprachen und Technologien
 
-<div style="display: grid;grid-template-columns: repeat(auto-fill, 34px);align-items: center;gap: 20px 20px;" >
+<div style="display: grid;grid-template-columns: repeat(auto-fill, 26px);align-items: center;gap: 20px 20px;" >
  <img  alt="JavaScript"  src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png">
  <img  alt="TypeScript"  src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png">
  <img  alt="HTML5"  src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png">
