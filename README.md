@@ -1,36 +1,51 @@
 ### Hi 👋 ich bin Kevin 😊
+
 - 🧪 **Ich arbeite zur Zeit an** meinem Portfolio
 - 🎓 **Aktuell lerne ich** Firebase
 - 🔭 **Was ich suche:** Herausforderungen in einer netten Firma
 - 🎯 **Mein Ziel:** Senior Full Stack Webentwickler 💪
 
 #### Interessen
+
 - 📷 Fotografie
 - 🚁 Luftfahrt
 - 🎮 Spiele
 - ✨ Kreative sein
 - 💻 Code
+
 ### Kontakt
+
 - kevin.kuehle@googlemail.com
+
 ### Sprachen und Technologien
 
-<!-- JavaScript -->
-<img align="left" alt="JavaScript" width="24px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png">
-<!-- TypeScript -->
-<img align="left" alt="TypeScript" width="24px" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png">
-<!-- HTML5 -->
-<img align="left" alt="HTML5" width="24px" src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png">
-<!-- CSS3 -->
-<img align="left" alt="CSS3" width="24px" src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png">
-<!-- Angular -->
-<img align="left" alt="Angular" width="24px" src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png">
-<!-- npm -->
-<img align="left" alt="node package manager" width="24px" src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png">
-<!-- Firebase -->
-<img align="left" alt="Firebase" width="24x" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png">
-<!-- MySQL -->
-<img align="left" alt="MySQL" width="24px" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png">
+<div class="container" >
 
+<img  alt="JavaScript"  src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png">
+<!-- TypeScript -->
+<img  alt="TypeScript"  src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png">
+<!-- HTML5 -->
+<img  alt="HTML5"  src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png">
+<!-- CSS3 -->
+<img  alt="CSS3"  src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png">
+<!-- Angular -->
+<img  alt="Angular"  src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png">
+<!-- npm -->
+<img  alt="node package manager"  src="https://seeklogo.com/images/N/npm-node-package-manager-logo-DE93649ED1-seeklogo.com.png">
+<!-- Firebase -->
+<img  alt="Firebase" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png">
+<!-- MySQL -->
+<img  alt="MySQL"  src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png">
+
+<img  alt="RxJS"  src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg">
+
+<img  alt="Visual Studio Code"  src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg">
+
+<img  alt="Adobe XD"  src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg">
+
+</div>
+
+<!-- JavaScript -->
 
 <br />
 <br />
@@ -38,4 +53,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Kuehle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[Mail]: kevin.kuehle@googlemail.com
+[mail]: kevin.kuehle@googlemail.com
+
+<style>
+
+.container {
+ display: grid;
+ grid-template-columns: repeat(auto-fill, 34px);
+ align-items: center;
+ gap: 20px 20px;
+}
+
+</style>
