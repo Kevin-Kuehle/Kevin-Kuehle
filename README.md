@@ -1,6 +1,6 @@
 ### Hi 👋 ich bin Kevin 😊
 
-- 💼 **meetyoo
+- 💼 **meetyoo 
 - 🎓 **Vue
 - 🎯 **Mein Ziel:** Senior Full Stack Webentwickler 💪
 
