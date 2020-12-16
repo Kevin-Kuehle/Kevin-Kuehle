@@ -1,8 +1,7 @@
 ### Hi 👋 ich bin Kevin 😊
 
-- 🧪 **Ich arbeite zur Zeit an** meinem Portfolio
-- 🎓 **Aktuell lerne ich** Firebase
-- 🔭 **Was ich suche:** Herausforderungen in einer netten Firma
+- 💼 **meetyoo
+- 🎓 **Vue
 - 🎯 **Mein Ziel:** Senior Full Stack Webentwickler 💪
 
 #### Interessen
