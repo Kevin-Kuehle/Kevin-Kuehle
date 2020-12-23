@@ -2,7 +2,7 @@
 
 - 💼 **meetyoo 🥰
 - 🎓 **Vue
-- 🎯 **Mein Ziel:** Senior Full Stack Webentwickler 💪
+- 🎯 Senior Full Stack Webentwickler 💪
 
 #### Interessen
 
