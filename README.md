@@ -20,6 +20,7 @@
 
  <p align="left">
   <img  align="left"  height="36px"  alt="JavaScript"  src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
+  <img  align="left"  height="36px"  alt="Vue"  src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" />
   &nbsp;
   <img  align="left"  height="36px"  alt="TypeScript"  src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" />
   &nbsp;
