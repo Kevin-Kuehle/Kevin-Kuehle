@@ -1,6 +1,6 @@
 ### Hi 👋 ich bin Kevin 😊
 
-- 💼 **meetyoo 🥰
+- 💼 🔍
 - 🎓 **Vue
 - 🎯 Senior Full Stack Webentwickler 💪
 
