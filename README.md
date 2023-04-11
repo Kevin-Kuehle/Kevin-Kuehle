@@ -21,6 +21,8 @@
  <p align="left">
   <img  align="left"  height="36px"  alt="JavaScript"  src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
   <img  align="left"  height="36px"  alt="Vue"  src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" />
+ <img  align="left"  height="36px"  alt="Amazon Web Services"  src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" />
+ <img  align="left"  height="36px"  alt="StoryBook"  src="https://iconape.com/wp-content/files/qa/371510/svg/371510.svg" />
   &nbsp;
   <img  align="left"  height="36px"  alt="TypeScript"  src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" />
   &nbsp;
