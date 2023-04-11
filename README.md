@@ -1,7 +1,7 @@
 ### Hi 👋 ich bin Kevin 😊
 
 - 💼 🔍
-- 🎓 **Vue
+- 🎓 **Vue**
 - 🎯 Senior Full Stack Webentwickler 💪
 
 #### Interessen
